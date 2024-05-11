@@ -32,7 +32,7 @@ The following represents our code for this project:
 -----------------------------------------------------------------------------------------------------------------------------------
 
 ==============================
-= TO CHANGE THE MATRIX SIZE: 
+  TO CHANGE THE MATRIX SIZE: 
 ==============================
 
 Inside of the main() func
