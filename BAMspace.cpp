@@ -1,14 +1,14 @@
 /************************************************************************************************************
-* Joey Mulé, Chris Bispels																					*
-* CMSC 441, Dr. Sherman																						*
-* 5/10/24																									*
-* Code References:																							*
-* https://github.com/YYYYYW/Matrix-Multiplication															*
-* https://www.geeksforgeeks.org/implementing-coppersmith-winograd-algorithm-in-java/						*
-* https://github.com/Bruce-Lee-LY/matrix_multiply															*
-* https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=3030fa2aecda339d593b86a260bfab9988b42df7	*
-* https://www.geeksforgeeks.org/strassens-matrix-multiplication-algorithm-implementation/	                *
-* Command: valgrind ./BAMspace                                                                              *
+* Joey MulÃ©, Chris Bispels
+* CMSC 441, Dr. Sherman
+* 5/10/24
+* Code References:
+* https://github.com/YYYYYW/Matrix-Multiplication
+* https://www.geeksforgeeks.org/implementing-coppersmith-winograd-algorithm-in-java/
+* https://github.com/Bruce-Lee-LY/matrix_multiply
+* https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=3030fa2aecda339d593b86a260bfab9988b42df7
+* https://www.geeksforgeeks.org/strassens-matrix-multiplication-algorithm-implementation/
+* Command: valgrind ./BAMspace
 ************************************************************************************************************/
 #include<stdio.h>
 #include<stdlib.h>
