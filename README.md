@@ -1,7 +1,7 @@
 *********************************************
 * Joey Mulé, Chris Bispels
 * University of Maryland, Baltimore County
-* CMSC 441, Dr. Sherman	  
+* CMSC 441-Algorithms, Dr. Sherman	  
 * 5/10/24		   
 *********************************************
 -----------------------------------------------
