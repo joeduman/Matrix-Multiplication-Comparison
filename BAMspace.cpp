@@ -8,6 +8,7 @@
 * https://github.com/Bruce-Lee-LY/matrix_multiply
 * https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=3030fa2aecda339d593b86a260bfab9988b42df7
 * https://www.geeksforgeeks.org/strassens-matrix-multiplication-algorithm-implementation/
+* After Compilation:
 * Command: valgrind ./BAMspace
 ************************************************************************************************************/
 #include<stdio.h>
